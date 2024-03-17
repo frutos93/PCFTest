@@ -1,0 +1,21 @@
+StationName,Latitude,Longitude,Direct Links
+London King's Cross,51.5308,-0.1224,"Cambridge, Leeds, Edinburgh Waverley, York, Manchester Piccadilly, Nottingham, Newcastle, Portsmouth Harbour, Bristol Temple Meads"
+Cambridge,52.2053,0.1218,London King's Cross
+Leeds,53.7944,-1.5479,"London King's Cross, Nottingham, Newcastle"
+Manchester Piccadilly,53.4775,-2.2304,"Birmingham New Street, Glasgow Central, London King's Cross, Leeds"
+Birmingham New Street,52.4778,-1.8985,"Manchester Piccadilly, Swansea, Manchester Piccadilly, Newcastle"
+Bristol Temple Meads,51.4492,-2.5814,"Cardiff Central, London King's Cross, Southampton Central"
+Cardiff Central,51.4757,-3.1791,"Bristol Temple Meads, Swansea, Bristol Temple Meads"
+Edinburgh Waverley,55.9533,-3.1883,"London King's Cross, York"
+Glasgow Central,55.8594,-4.2581,Manchester Piccadilly
+Liverpool Lime Street,53.4072,-2.9778,"Sheffield, Manchester Piccadilly"
+Newcastle,54.9685,-1.6174,"London King's Cross, Leeds, Manchester Piccadilly, Birmingham New Street"
+Nottingham,52.9476,-1.1469,"Sheffield, Leeds, London King's Cross"
+Oxford,51.7537,-1.2702,"Reading, London King's Cross"
+Portsmouth Harbour,50.7967,-1.1075,"Southampton Central, London King's Cross, Bristol Temple Meads"
+Reading,51.4591,-0.9718,"Oxford, Bristol Temple Meads"
+Sheffield,53.378,-1.462,"Liverpool Lime Street, Nottingham"
+Southampton Central,50.9077,-1.4137,"Portsmouth Harbour, Portsmouth Harbour, Bristol Temple Meads"
+Swansea,51.6251,-3.9409,"Birmingham New Street, Cardiff Central"
+York,53.9586,-1.0906,"London King's Cross, Edinburgh Waverley"
+Norwich,52.6269,1.3069,"Birmingham New Street, Leeds, Manchester Piccadilly"

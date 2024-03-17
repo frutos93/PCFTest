@@ -1,0 +1,185 @@
+TrainNumber,FromStation,ToStation,DepartureTime,ArrivalTime
+301,Birmingham New Street,Norwich,06:00,07:51
+301,Norwich,Newcastle,08:21,10:04
+301,Newcastle,Glasgow Central,10:18,12:01
+301,Glasgow Central,London King's Cross,12:26,14:23
+301,London King's Cross,Cambridge,14:50,15:57
+301,Cambridge,Reading,16:09,17:37
+301,Reading,Liverpool Lime Street,17:56,19:45
+301,Liverpool Lime Street,Manchester Piccadilly,20:14,21:53
+302,Liverpool Lime Street,Oxford,06:00,07:35
+302,Oxford,Edinburgh Waverley,08:00,09:45
+302,Edinburgh Waverley,Southampton Central,10:04,11:19
+302,Southampton Central,Glasgow Central,11:38,13:33
+302,Glasgow Central,Nottingham,13:54,15:45
+302,Nottingham,Leeds,16:14,17:20
+303,Liverpool Lime Street,Sheffield,06:00,07:14
+303,Sheffield,Manchester Piccadilly,07:35,08:55
+303,Manchester Piccadilly,Birmingham New Street,09:10,10:34
+303,Birmingham New Street,Reading,10:45,12:07
+304,Nottingham,Sheffield,06:00,07:32
+304,Sheffield,London King's Cross,07:45,09:20
+304,London King's Cross,Birmingham New Street,09:49,11:14
+304,Birmingham New Street,Liverpool Lime Street,11:33,13:11
+304,Liverpool Lime Street,Oxford,13:24,15:11
+305,Southampton Central,Portsmouth Harbour,06:00,07:23
+305,Portsmouth Harbour,Swansea,07:46,09:05
+305,Swansea,Glasgow Central,09:25,10:42
+305,Glasgow Central,Bristol Temple Meads,10:54,12:45
+305,Bristol Temple Meads,Oxford,13:06,14:12
+305,Oxford,Leeds,14:40,16:35
+306,Leeds,Newcastle,06:00,07:09
+306,Newcastle,Cardiff Central,07:25,09:09
+306,Cardiff Central,London King's Cross,09:20,11:00
+306,London King's Cross,Oxford,11:17,13:04
+306,Oxford,York,13:24,14:50
+306,York,Liverpool Lime Street,15:19,16:53
+306,Liverpool Lime Street,Southampton Central,17:13,18:44
+306,Southampton Central,Norwich,19:00,20:52
+306,Norwich,Swansea,21:08,22:24
+307,Swansea,Cardiff Central,06:00,07:16
+307,Cardiff Central,Edinburgh Waverley,07:42,09:40
+307,Edinburgh Waverley,Bristol Temple Meads,09:53,11:49
+307,Bristol Temple Meads,Nottingham,12:05,13:06
+308,London King's Cross,Leeds,06:00,07:49
+308,Leeds,Bristol Temple Meads,08:09,09:20
+308,Bristol Temple Meads,Southampton Central,09:36,11:24
+308,Southampton Central,York,11:44,13:16
+308,York,Nottingham,13:33,15:22
+308,Nottingham,Swansea,15:40,17:24
+308,Swansea,Sheffield,17:40,18:45
+309,York,Norwich,06:00,07:29
+309,Norwich,Manchester Piccadilly,07:51,09:06
+309,Manchester Piccadilly,Nottingham,09:29,10:48
+309,Nottingham,Portsmouth Harbour,11:00,12:25
+309,Portsmouth Harbour,Southampton Central,12:43,14:42
+309,Southampton Central,Liverpool Lime Street,15:05,16:36
+309,Liverpool Lime Street,Swansea,16:59,18:42
+309,Swansea,Birmingham New Street,19:00,20:10
+310,Norwich,Glasgow Central,06:00,07:02
+310,Glasgow Central,Sheffield,07:20,08:36
+310,Sheffield,Newcastle,08:50,10:48
+310,Newcastle,York,11:07,12:42
+311,Oxford,London King's Cross,06:00,07:05
+311,London King's Cross,Liverpool Lime Street,07:35,09:30
+311,Liverpool Lime Street,Edinburgh Waverley,09:50,11:13
+311,Edinburgh Waverley,Nottingham,11:33,12:37
+312,York,Swansea,06:00,07:20
+312,Swansea,Nottingham,07:50,09:29
+312,Nottingham,Cambridge,09:48,11:16
+312,Cambridge,Southampton Central,11:33,12:37
+312,Southampton Central,Manchester Piccadilly,12:49,13:53
+312,Manchester Piccadilly,London King's Cross,14:08,15:59
+312,London King's Cross,Portsmouth Harbour,16:22,18:09
+312,Portsmouth Harbour,Edinburgh Waverley,18:35,20:11
+312,Edinburgh Waverley,Oxford,20:23,22:02
+313,London King's Cross,Norwich,06:00,07:48
+313,Norwich,Cambridge,08:05,09:18
+313,Cambridge,Edinburgh Waverley,09:44,11:30
+313,Edinburgh Waverley,Portsmouth Harbour,11:58,13:46
+313,Portsmouth Harbour,Birmingham New Street,14:05,15:31
+313,Birmingham New Street,Leeds,15:57,17:31
+313,Leeds,Cardiff Central,18:01,19:47
+313,Cardiff Central,York,19:57,20:57
+313,York,Sheffield,21:19,22:20
+314,Reading,Southampton Central,06:00,07:13
+314,Southampton Central,Portsmouth Harbour,07:37,08:46
+314,Portsmouth Harbour,Norwich,09:12,10:43
+314,Norwich,Bristol Temple Meads,11:01,12:37
+314,Bristol Temple Meads,Glasgow Central,12:48,13:59
+314,Glasgow Central,Sheffield,14:09,15:55
+315,Manchester Piccadilly,Oxford,06:00,07:43
+315,Oxford,Reading,08:04,09:55
+315,Reading,London King's Cross,10:24,12:11
+315,London King's Cross,Newcastle,12:29,13:44
+315,Newcastle,Norwich,14:00,15:12
+316,Portsmouth Harbour,Swansea,06:00,07:14
+316,Swansea,Cambridge,07:33,08:37
+316,Cambridge,Nottingham,09:03,10:32
+316,Nottingham,London King's Cross,10:51,12:39
+316,London King's Cross,Cardiff Central,13:03,14:40
+317,Southampton Central,York,06:00,07:04
+317,York,London King's Cross,07:29,09:13
+317,London King's Cross,Cambridge,09:38,11:05
+317,Cambridge,Norwich,11:26,13:23
+317,Norwich,Liverpool Lime Street,13:43,15:08
+317,Liverpool Lime Street,Birmingham New Street,15:37,17:07
+318,Cambridge,Newcastle,06:00,07:27
+318,Newcastle,Swansea,07:49,09:07
+318,Swansea,Nottingham,09:22,10:33
+318,Nottingham,Leeds,10:45,12:27
+318,Leeds,Manchester Piccadilly,12:47,14:30
+318,Manchester Piccadilly,Portsmouth Harbour,14:57,16:49
+318,Portsmouth Harbour,Reading,17:08,18:56
+318,Reading,Cardiff Central,19:26,21:13
+319,Swansea,Cardiff Central,06:00,07:54
+319,Cardiff Central,York,08:06,10:06
+319,York,Birmingham New Street,10:35,12:10
+319,Birmingham New Street,Newcastle,12:37,14:36
+320,Cambridge,Reading,06:00,07:12
+320,Reading,Oxford,07:32,09:05
+320,Oxford,York,09:27,11:01
+320,York,Sheffield,11:31,13:16
+321,Southampton Central,Newcastle,06:00,07:11
+321,Newcastle,Reading,07:24,09:05
+321,Reading,London King's Cross,09:21,10:40
+321,London King's Cross,Swansea,11:09,12:56
+321,Swansea,Liverpool Lime Street,13:17,14:40
+322,Bristol Temple Meads,Portsmouth Harbour,06:00,07:43
+322,Portsmouth Harbour,Edinburgh Waverley,07:53,09:42
+322,Edinburgh Waverley,Liverpool Lime Street,10:03,11:05
+322,Liverpool Lime Street,Southampton Central,11:32,12:34
+323,Oxford,Leeds,06:00,07:23
+323,Leeds,Sheffield,07:43,09:43
+323,Sheffield,Southampton Central,10:13,12:00
+323,Southampton Central,Cambridge,12:14,13:58
+323,Cambridge,Glasgow Central,14:08,15:38
+323,Glasgow Central,Manchester Piccadilly,16:07,17:43
+323,Manchester Piccadilly,Portsmouth Harbour,18:06,19:45
+323,Portsmouth Harbour,Edinburgh Waverley,19:59,21:04
+324,Portsmouth Harbour,Southampton Central,06:00,07:18
+324,Southampton Central,Bristol Temple Meads,07:45,09:12
+324,Bristol Temple Meads,Newcastle,09:42,10:59
+324,Newcastle,Leeds,11:24,13:06
+324,Leeds,Swansea,13:22,15:19
+324,Swansea,Liverpool Lime Street,15:47,16:48
+324,Liverpool Lime Street,Glasgow Central,16:58,18:30
+324,Glasgow Central,Norwich,18:40,19:55
+324,Norwich,Edinburgh Waverley,20:05,21:51
+325,Nottingham,Southampton Central,06:00,08:00
+325,Southampton Central,Reading,08:13,09:28
+325,Reading,Leeds,09:57,11:45
+325,Leeds,Portsmouth Harbour,11:56,13:51
+325,Portsmouth Harbour,Manchester Piccadilly,14:12,15:53
+325,Manchester Piccadilly,Cambridge,16:06,17:28
+325,Cambridge,Norwich,17:39,19:19
+325,Norwich,Cardiff Central,19:32,21:31
+326,London King's Cross,Southampton Central,06:00,07:47
+326,Southampton Central,Liverpool Lime Street,08:09,10:00
+326,Liverpool Lime Street,Cardiff Central,10:16,11:33
+326,Cardiff Central,Cambridge,11:47,13:15
+326,Cambridge,Glasgow Central,13:42,14:51
+327,Birmingham New Street,London King's Cross,06:00,07:56
+327,London King's Cross,Norwich,08:14,09:41
+327,Norwich,Cardiff Central,09:51,10:57
+327,Cardiff Central,Reading,11:14,12:36
+327,Reading,Cambridge,12:48,13:58
+327,Cambridge,Liverpool Lime Street,14:12,16:12
+328,Nottingham,Liverpool Lime Street,06:00,07:46
+328,Liverpool Lime Street,Norwich,08:14,09:38
+328,Norwich,Bristol Temple Meads,10:05,11:29
+328,Bristol Temple Meads,Edinburgh Waverley,11:57,13:04
+328,Edinburgh Waverley,Sheffield,13:33,15:03
+329,Liverpool Lime Street,Cambridge,06:00,07:32
+329,Cambridge,Southampton Central,07:45,09:42
+329,Southampton Central,York,09:54,11:08
+329,York,Nottingham,11:36,12:41
+329,Nottingham,Leeds,13:00,14:19
+329,Leeds,Manchester Piccadilly,14:37,16:26
+330,Liverpool Lime Street,Reading,06:00,07:20
+330,Reading,Manchester Piccadilly,07:44,09:41
+330,Manchester Piccadilly,Glasgow Central,09:58,11:15
+330,Glasgow Central,Portsmouth Harbour,11:28,12:52
+330,Portsmouth Harbour,Birmingham New Street,13:02,14:44
+330,Birmingham New Street,Edinburgh Waverley,15:05,16:47
+330,Edinburgh Waverley,York,17:10,18:15
